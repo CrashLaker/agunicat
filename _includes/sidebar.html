@@ -26,6 +26,9 @@
         {% endif %}
       {% endfor %}
 
+      {% for i in site.urls %}
+        <a class="sidebar-nav-item{% if page.url == i.url %} active{% endif %}" href="{{ i.url }}">{{ i.text }}</a>
+      {% endfor %}
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     </nav>
 

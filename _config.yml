@@ -10,13 +10,20 @@ permalink:        pretty
 title:            Agunicat
 tagline:          'agunicat'
 description:      'Tales of an eternal apprentice~'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://blog.agunicat.co
+baseurl:          https://blog.agunicat.co
 
 author:
   name:           'Agunicat'
   url:            https://blog.agunicat.co
 
+urls:
+  - text: All Posts
+    url: /posts
+  - text: Tags
+    url: /tags
+#- text: XML Feed
+#  url: /feed.xml
 paginate:         50
 
 # Custom vars
