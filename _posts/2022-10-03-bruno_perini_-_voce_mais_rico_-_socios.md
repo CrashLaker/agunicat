@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Untitled"
+title: "Bruno Perini - Voce mais rico - Socios"
 comments: true
 date: "2022-10-03 04:21:10.208000+00:00"
 ---
+
 
 ## come cotas
 
