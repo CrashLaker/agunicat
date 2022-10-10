@@ -5,6 +5,14 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+
+## falhas
+
+https://www.linkedin.com/posts/ernesto-teodoro_activity-6984901660951130112-1Kzm?utm_source=share&utm_medium=member_desktop
+
+![](/assets/img/edxhPaolp_d11cee5311c0711acd62bcd042bb7743.png)
+
+
 ## Mar calmo nao faz bom marinheiro
 
 https://youtu.be/v4DoVP-2R5c?t=2620
