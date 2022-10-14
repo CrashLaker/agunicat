@@ -18,6 +18,16 @@ https://www.instagram.com/descubrafloripa/
 
 Av. Jorn. Rubéns de Arruda Ramos, 2746 - Centro, Florianópolis - SC, 88015-702
 
+## Coworking da ilha
+
+https://www.instagram.com/coworkingdailha/
+
+https://www.coworkingdailha.com.br/
+
+![](/assets/img/1Y1_-7P-i_adc5df265674b5181b21f9f738dce2da.png)
+
+
+
 
 ## forro 
 
@@ -94,6 +104,33 @@ https://youtu.be/URUvdIYiZ0k?t=1237
 ![](/assets/img/1Y1_-7P-i_e625e1bd20f75cee622d5e0fbf5e03ce.png)
 
 ![](/assets/img/1Y1_-7P-i_fe7cd9a8f19768695e9e35d33229f40b.png)
+
+
+## crepe
+
+R. Lauro Linhares, 624 - Trindade, Florianópolis - SC, 88036-002
+
+https://www.tiktok.com/@marcelamorgon/video/7079907637013318918?is_copy_url=1&is_from_webapp=v1&lang=en
+
+![](/assets/img/1Y1_-7P-i_ed01eec68d8b56a76a252132076c0446.png)
+
+![](/assets/img/1Y1_-7P-i_e864bc37d0a1a9a5f3330364772d424d.png)
+
+## Mercado sehat - thai
+
+Av. Pequeno Príncipe, 859 - Campeche, Florianópolis - SC, 88063-000
+
+![](/assets/img/1Y1_-7P-i_c86994ab2c4d54f8d70f7d098d1ba972.png){:width="400px"}
+
+![](/assets/img/1Y1_-7P-i_d8606ac972ef77c8fc0a9d411828af3b.png){:width="400px"}
+
+## Noma
+
+R. Alm. Lamego, 201 - Centro, Florianópolis - SC, 88015-600
+
+![](/assets/img/1Y1_-7P-i_185389217fcf1566686e21b997c9211f.png)
+
+![](/assets/img/1Y1_-7P-i_6dc4da46231a08d4128806043ea52d15.png)
 
 
 
