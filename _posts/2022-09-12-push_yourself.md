@@ -5,6 +5,12 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## if you start today
+
+https://www.linkedin.com/posts/liz-fosslien_its-easy-to-push-off-something-exciting-activity-6980934437853171712-rBuD?utm_source=share&utm_medium=member_desktop
+
+![](/assets/img/edxhPaolp_54fe6b7a26460f89a08937a2892380b6.png)
+
 
 ## falhas
 
