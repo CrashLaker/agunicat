@@ -5,7 +5,25 @@ comments: true
 date: "2022-10-02 06:23:40.091000+00:00"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TtNWk_IERD4?start=521" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/assets/img/bBBn2am3C_1138764157b4aad3eaf9268f9cc470c8.png)
+
+https://youtu.be/TtNWk_IERD4?t=542
+
+---
+
+![](/assets/img/bBBn2am3C_047d16900cc29975ee6790ec52235271.png)
+
+https://youtu.be/cm7aFqksv80?t=735
+
+layout: post
+title: "Kpop Random Dance"
+comments: true
+date: "2022-10-02 06:23:40.091000+00:00"
+---
+
+
+
+
 
 
 

@@ -5,6 +5,15 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## fosslien
+
+https://www.fosslien.com/images
+
+![](/assets/img/edxhPaolp_5356a74c1420d49bbf7f890ede6d22c7.png){:width="200px"}
+
+![](/assets/img/edxhPaolp_3481b02498865bede5472581193194b4.png){:width="200px"}
+
+
 ## if you start today
 
 https://www.linkedin.com/posts/liz-fosslien_its-easy-to-push-off-something-exciting-activity-6980934437853171712-rBuD?utm_source=share&utm_medium=member_desktop
@@ -39,7 +48,7 @@ https://www.linkedin.com/posts/addyosmani_softwareengineering-productivity-activ
 
 ## dar o seu melhor
 
-<iframe src='/assets/files/edxhPaolp_vinimathias.run_300181256_427602872766332_7605777679355346437_n.mp4' style='border:0;width:500px;height:300px;'></iframe>
+<iframe sandbox src='/assets/files/edxhPaolp_vinimathias.run_300181256_427602872766332_7605777679355346437_n.mp4' style='border:0;width:500px;height:300px;'></iframe>
 
 > Por que parou de dar o seu melhor?
 > Ta cansadinho?
