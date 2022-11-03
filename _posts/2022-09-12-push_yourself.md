@@ -5,6 +5,13 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## Leon C. Megginson
+
+https://www.linkedin.com/posts/marcelebarros_pracegover-womenintech-techgirls-activity-6993545060587855872-n_Y_?utm_source=share&utm_medium=member_desktop
+
+![](/assets/img/edxhPaolp_aeeb09cc859bc784e31ec53fd29df392.png){:width="400px"}
+
+
 ## fosslien
 
 https://www.fosslien.com/images
