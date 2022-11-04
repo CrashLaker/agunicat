@@ -11,6 +11,13 @@ https://produto.mercadolivre.com.br/MLB-2173773727-carrinho-fruteira-multiuso-or
 
 ![](/assets/img/hrhirZyow_16c2122c4c68908479c587eb5917e6ca.png)
 
+## Carrinho Auxiliar Organizador Para Salão De Beleza 6 Gavetas
+
+https://produto.mercadolivre.com.br/MLB-2610097177-carrinho-auxiliar-organizador-para-salo-de-beleza-6-gavetas-_JM?variation=174738679266#reco_item_pos=0&reco_backend=machinalis-homes-pdp-boos&reco_backend_type=function&reco_client=home_navigation-recommendations&reco_id=c2978ee3-2cce-4dec-bb49-5e02dbdb14e4&c_id=/home/navigation-recommendations/element&c_element_order=1&c_uid=f9228450-7a66-4985-9b8c-70cf7fc19d8f
+
+![](/assets/img/hrhirZyow_d618ecd5a6659db5728662085b6af699.png)
+
+
 ## Prateleira Carrinho Organizador C/ 4 Andares + Rodinhas
 
 https://produto.mercadolivre.com.br/MLB-2097881099-prateleira-carrinho-organizador-c-4-andares-rodinhas-_JM#position=2&search_layout=grid&type=item&tracking_id=f52c05f1-ad85-4018-8f9a-9eed1028cab8
