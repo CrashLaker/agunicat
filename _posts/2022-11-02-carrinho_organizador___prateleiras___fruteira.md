@@ -49,6 +49,13 @@ https://produto.mercadolivre.com.br/MLB-2692445614-fruteira-4-cestas-c-roda-carr
 
 ![](/assets/img/hrhirZyow_47bce692b5b66ec2981aeca0424b347e.png)
 
+rodinha silicone
+
+https://produto.mercadolivre.com.br/MLB-1501506520-2pcs-rodizio-giratorio-pino-7mm-buchas-10mm-roda-gel-35mm-_JM
+
+![](/assets/img/hrhirZyow_4efdac399a0e8b38caeced392249e677.png)
+
+
 
 ## Fruteira De Chão Tripla Metal Com Rodas E Tampo Em Madeira
 
