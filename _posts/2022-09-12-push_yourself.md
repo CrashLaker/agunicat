@@ -5,6 +5,14 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## Enola Holmes
+
+
+![](/assets/img/edxhPaolp_da32ca7479a0a2738c371555f24c4c6b.png)
+
+> There are two paths you can take Enola
+> yours or the path others choose for you
+
 ## Leon C. Megginson
 
 https://www.linkedin.com/posts/marcelebarros_pracegover-womenintech-techgirls-activity-6993545060587855872-n_Y_?utm_source=share&utm_medium=member_desktop
