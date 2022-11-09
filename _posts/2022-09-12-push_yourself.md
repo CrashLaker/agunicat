@@ -5,20 +5,6 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
-## Ticket to Paradise
-
-![](/assets/img/edxhPaolp_cb7b8b16fd5375d04b6f640727ce15fd.png)
-> Why save the good stuff for later?
-
-![](/assets/img/edxhPaolp_23eb34f2fdef468736adbac35b9f11e7.png)
-
-## Enola Holmes
-
-
-![](/assets/img/edxhPaolp_da32ca7479a0a2738c371555f24c4c6b.png)
-
-> There are two paths you can take Enola
-> yours or the path others choose for you
 
 ## Leon C. Megginson
 
