@@ -5,6 +5,12 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## quer ser bom? faça muito
+
+https://www.linkedin.com/posts/joao-gabriel-matuto_o-%C3%B3bvio-precisa-ser-dito-activity-7001582953935826944-20jC?utm_source=share&utm_medium=member_desktop
+
+![](/assets/img/edxhPaolp_1ae8fc43653651856facdbb5563bfb7c.png)
+
 
 ## Leon C. Megginson
 
