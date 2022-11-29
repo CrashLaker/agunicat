@@ -5,6 +5,11 @@ comments: true
 date: "2022-11-27 20:16:19.589000+00:00"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPgu0KlVGD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/afdq65_a1cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pjm4QzAAlFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >  é uma sigla em ingles para Private Label Rights, no caso do marketing digital basicamente é vc adquirir os direitos autorais sobre um produto e vender como sendo seu
