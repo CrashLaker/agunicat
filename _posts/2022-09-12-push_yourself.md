@@ -5,6 +5,16 @@ comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
 
+## pursuit of happiness
+
+> Don’t ever let someone tell you, you can’t do something. Not even me. You got a dream, you got to protect it. People can’t do something themselves, they want to tell you you can’t do it. You want something, go get it. Period.
+--Pursuit of Happyness Movie
+
+https://www.linkedin.com/posts/yujunliang_cloudcomputing-cloudcertification-googlecloud-activity-7013873600776589312-3Ui6?utm_source=share&utm_medium=member_desktop
+
+![](/assets/img/edxhPaolp_3e00b14f7435f8e46915310ad72c9dcd.png)
+
+
 ## quer ser bom? faça muito
 
 https://www.linkedin.com/posts/joao-gabriel-matuto_o-%C3%B3bvio-precisa-ser-dito-activity-7001582953935826944-20jC?utm_source=share&utm_medium=member_desktop
