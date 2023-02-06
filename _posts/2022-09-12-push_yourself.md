@@ -72,7 +72,7 @@ https://www.linkedin.com/posts/addyosmani_softwareengineering-productivity-activ
 
 ## dar o seu melhor
 
-<iframe sandbox src='/assets/files/edxhPaolp_vinimathias.run_300181256_427602872766332_7605777679355346437_n.mp4' style='border:0;width:500px;height:300px;'></iframe>
+<iframe sandbox src='http://core1:8081/download/agunicatblog/af7a450557924885a9bddaebe104e74f.mp4/vinimathias.run_300181256_427602872766332_7605777679355346437_n.mp4' style='border:0;width:500px;height:300px;'></iframe>
 
 > Por que parou de dar o seu melhor?
 > Ta cansadinho?
