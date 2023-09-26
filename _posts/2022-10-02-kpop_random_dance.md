@@ -7,7 +7,7 @@ date: "2022-10-02 06:23:40.091000+00:00"
 
 ![](/assets/img/bBBn2am3C_1138764157b4aad3eaf9268f9cc470c8.png)
 
-https://youtu.be/TtNWk_IERD4?t=542
+https://youtu.be/TtNWk_IERD4?t=507
 
 ---
 
