@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Push yourself"
+title: "Push yourself quotes"
 comments: true
 date: "2022-09-12 06:42:11.447000+00:00"
 ---
+
+## 
+https://www.instagram.com/reel/CyoVpG7gsmL/?utm_source=ig_web_copy_link
+![](/assets/img/edxhPaolp_923e3d931fbc819653336bc5af242dda.png)
+
 
 ## pursuit of happiness
 
